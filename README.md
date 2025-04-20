@@ -15,7 +15,7 @@ Experience the timeless classic reimagined with **Snake Deluxe**, a sleek and cu
 
 ## 🕹️ Demo
 
-\[Showcase your game with a visually appealing screenshot or a short GIF animation right here!]
+Not yet implemented :)
 
 ## ⚙️ Installation
 
