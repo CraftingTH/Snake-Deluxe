@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Experience the timeless classic reimagined with **Snake Deluxe**, a sleek and customizable take on the iconic Snake game. Developed by **CraftingTH**, this version offers a range of settings and stylish pixel art. Tailor your gameplay by choosing from different modes, adjusting the speed, and selecting your preferred color scheme for the ultimate snake adventure.
+Experience the timeless classic reimagined with **Snake Deluxe**, a sleek and customizable take on the iconic Snake game. Developed by **me**, this version offers a range of settings and stylish pixel art. Tailor your gameplay by choosing from different modes, adjusting the speed, and selecting your preferred color scheme for the ultimate snake adventure.
 
 ## ✨ Key Features
 
